@@ -22,3 +22,8 @@ Back-end microservices:
   - Storing, fetching, and updating users' information such as ID, name, password, and user delivery address for food delivery.
   - Managing massive info in a MySQL database.
   - Link: https://github.com/drakenevadie19/idraiske-userInfo-Microservice.git
+- Order Microservice:
+  - Save all the information of the restaurant's details, and user details from where to order pickup to where to order has to be served, into the MongoDB database
+  - Respond to Endpoint to save order in the database.
+  - Link: https://github.com/drakenevadie19/idraiske-Order-Microservice.git
+
