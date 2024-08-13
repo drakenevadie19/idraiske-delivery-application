@@ -5,6 +5,12 @@ Technologies:
 - Connecting Front-end and Back-end: Rest/ Restful, Postman.
 - Back-end: Spring boot, Microservices, Github, Docker, Kubernetes, Junit, Sonar, AWS EKS, AWS ALB, AWS EC2, AWS RDS (SQL), Mongo Atlas (No-SQL), MySQL, Jenkins, ArgoCD.
 
+Front-end pages:
+- Link: https://github.com/drakenevadie19/idraiske-food-delivery-application-FE.git
+  - Restaurant List page
+  - Food Catalogue page
+  - Order Page
+
 Back-end microservices: 
 - Eureka Server: 
   - Monitoring current online servers.
