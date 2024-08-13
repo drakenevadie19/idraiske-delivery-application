@@ -2,8 +2,8 @@
 
 Technologies: 
 - Front-end: Angular, Bootstrap 5
-- Connecting Front-end and Back-end: Rest/ Restful.
-- Back-end: Spring boot, Microservices, Github, Docker, Kubernetes, Junit, Sonar, AWS EKS, AWS ALB, AWS EC2, AWS RDS (SQL), Mongo Atlas (No-SQL), Jenkins, ArgoCD.
+- Connecting Front-end and Back-end: Rest/ Restful, Postman.
+- Back-end: Spring boot, Microservices, Github, Docker, Kubernetes, Junit, Sonar, AWS EKS, AWS ALB, AWS EC2, AWS RDS (SQL), Mongo Atlas (No-SQL), MySQL, Jenkins, ArgoCD.
 
 Back-end microservices: 
 - Eureka Server: 
