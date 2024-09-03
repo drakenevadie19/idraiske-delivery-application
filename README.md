@@ -7,6 +7,7 @@ Technologies:
 
 Front-end pages:
 - Link: https://github.com/drakenevadie19/idraiske-food-delivery-application-FE.git
+- Components: 
   - Restaurant List page
   - Food Catalogue page
   - Order Page
